@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: peru;
+    height: 100vh;
+}
+.container{
+    max-width: 500px; text-align: center;
+}
+h1{
+    font-size: 30px; font-family: 'arial';
+    margin-bottom: 10px; max-width: 250px;
+    display: flex; flex-direction: column;
+}
+.btn{
+    width: 100px; height: 30px; border:0;
+    background: gray; color: #fff;
+    border-radius: 5px; 
+    
+}
